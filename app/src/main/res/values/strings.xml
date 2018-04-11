@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CDA7</string>
+
+    <string name="confirm_password">confirma tu contraseña</string>
+    <string name="password">Ingresa tu contraseña</string>
+    <string name="email">Ingresa tu nombre de usuario</string>
+    <string name="sign_up">Registrarse</string>
+    <string name="login">Iniciar sesion</string>
+    <string name="registrarme">Registrarme</string>
+</resources>
